@@ -1,5 +1,7 @@
-### Welcome to my github profile
+# Eliad Cohen
 
+Hello and welcome to my github profile.
+You can glance at a summary of my mission and skills below, I'll be updating status of specific projects over time.
 
 
 ## Summary
